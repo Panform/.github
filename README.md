@@ -1,5 +1,7 @@
-<p align="center">
-  # Panform
-  We are currently building. Stay tuned for updates.
-  <img src="loading.gif" alt="Loading gif">
-</p>
+# Panform
+
+We're currently hard at work building Panform!
+
+More info coming soon.
+
+![Loading in progress](loading.gif)
